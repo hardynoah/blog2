@@ -1,0 +1,22 @@
+img {
+  max-width: 32rem;
+}
+
+body {
+  background-color: #E0D2C3;
+  color: #292E1E;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center; /* Center content vertically */
+}
+
+h1, h2 {
+  font-family: sans-serif;
+}
+
+p {
+  max-width: 40%;
+  text-align: center;
+  margin: auto; /* Center the paragraph horizontally */
+}
